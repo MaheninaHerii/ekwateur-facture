@@ -1,0 +1,1 @@
+package fr.ekwateur.facture.application.ports.incoming;

@@ -1,0 +1,1 @@
+package fr.ekwateur.facture.exceptions;
