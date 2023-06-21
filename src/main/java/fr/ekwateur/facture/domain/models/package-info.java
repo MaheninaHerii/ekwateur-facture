@@ -1,1 +1,0 @@
-package fr.ekwateur.facture.domain.models;
